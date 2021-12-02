@@ -2,7 +2,7 @@
 
 ## Watch
 
-[active link](https://compassionate-galileo-4f7d0f.netlify.app/ 'netlify.com')
+[active link](https://annakulyk555.github.io/todo-react-redux/ 'gitHub pages')
 
 ## The tech stack is:
 
