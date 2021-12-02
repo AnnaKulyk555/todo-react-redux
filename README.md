@@ -2,7 +2,7 @@
 
 ## Watch
 
-[active link](https://annakulyk555.github.io/todo-react-redux/ 'gitHub pages')
+[active link](https://annakulyk555.github.io/todo-react-redux/ 'GitHub pages')
 
 ## The tech stack is:
 
