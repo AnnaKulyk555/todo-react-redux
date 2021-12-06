@@ -21,7 +21,7 @@ const CreateTaskInput = ({ onCreate }) => {
         onChange={handleChange}
         value={inputValue}
       />
-      <button className="btn create-task__btn" onClick={handleCreate}>
+      <button className="btn create-task__btn" disabled={!inputValue} onClick={handleCreate}>
         Create
       </button>
     </div>
